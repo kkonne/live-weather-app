@@ -1,6 +1,6 @@
 # Weather App (quasar-weather)
 
-Modern, lightweight & simple weather app in Vue.js using Quasar framework and Axios API requests
+Modern, lightweight & simple weather app in Vue.js using Quasar framework, Axios API requests & Sass
 
 Easily deployable to iOS and Android with Quasar built-in features
 
